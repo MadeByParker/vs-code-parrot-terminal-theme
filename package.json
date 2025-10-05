@@ -1,15 +1,22 @@
 {
 	"name": "parrot-terminal-theme",
 	"displayName": "Parrot Terminal Theme",
-	"description": "A ParrotOS-style green-on-black terminal theme for VS Code.",
+	"description": "A ParrotOS-inspired VS Code theme with neon green accents, black background, and hacker terminal aesthetics.",
 	"version": "1.0.0",
-	"publisher": "madebyparker",
+	"publisher": "harryparker",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/harryparker/parrot-terminal-theme"
+	},
+	"homepage": "https://github.com/harryparker/parrot-terminal-theme",
+	"license": "MIT",
 	"contributes": {
 		"themes": [
 			{
@@ -18,5 +25,17 @@
 				"path": "./themes/Parrot Terminal-color-theme.json"
 			}
 		]
-	}
+	},
+	"galleryBanner": {
+		"color": "#001100",
+		"theme": "dark"
+	},
+	"keywords": [
+		"ParrotOS",
+		"Hacker",
+		"Terminal",
+		"Matrix",
+		"Dark Theme",
+		"Cyberpunk"
+	]
 }
