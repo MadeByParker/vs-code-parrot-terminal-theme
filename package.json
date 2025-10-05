@@ -1,0 +1,22 @@
+{
+	"name": "parrot-terminal-theme",
+	"displayName": "Parrot Terminal Theme",
+	"description": "A ParrotOS-style green-on-black terminal theme for VS Code.",
+	"version": "1.0.0",
+	"publisher": "madebyparker",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Parrot Terminal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Parrot Terminal-color-theme.json"
+			}
+		]
+	}
+}
