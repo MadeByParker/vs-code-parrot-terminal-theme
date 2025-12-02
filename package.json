@@ -22,7 +22,7 @@
 			{
 				"label": "Parrot Terminal",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Parrot Terminal-color-theme.json"
+				"path": "./themes/parrotOS-terminal-theme.json"
 			}
 		]
 	},
