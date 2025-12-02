@@ -2,7 +2,7 @@
 	"name": "parrot-terminal-theme",
 	"displayName": "Parrot Terminal Theme",
 	"description": "A ParrotOS-inspired VS Code theme with neon green accents, black background, and hacker terminal aesthetics.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "madebyparker",
 	"icon": "images/icon.png",
 	"engines": {
